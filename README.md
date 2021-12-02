@@ -1,6 +1,6 @@
 <h1>Come usare le Twemoji?</h1>
 
-<h3>Per usare le emoji da così &#160; <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/309/face-with-tears-of-joy_1f602.png" type="image/png" style="height: 25px; max-width: 25px;" /> &#160; a così &#160; <img src="https://discord.com/assets/6201503f3aa918470a2190b36d1e196f.svg" type="image/svg" style="height: 22px; max-width: 22px;" /> &#160; Seguire i seguenti procedimenti, indicati qui sotto.</h3>
+<h3>Per usare le emoji da così &#160; <img ID="Emojipedia_joy_windows" CssClass="boostrap.min.css" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/309/face-with-tears-of-joy_1f602.png" type="image/png" style="height: 25px; max-width: 25px;" /> &#160; a così &#160; <img ID="Emojipedia_joy_windows" CssClass="boostrap.min.css" src="https://discord.com/assets/6201503f3aa918470a2190b36d1e196f.svg" type="image/svg" style="height: 22px; max-width: 22px;" /> &#160; Seguire i seguenti procedimenti, indicati qui sotto.</h3>
 
 <hr />
 
