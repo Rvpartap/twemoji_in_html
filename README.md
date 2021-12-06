@@ -6,21 +6,20 @@
 
 <p>1. &#160; Mettere prima il codice "Script" presente qui sotto nel Head del sito HTML</p>
 
-<div class="highlight highlight-text-html-basic position-relative overflow-auto" data-snippet-clipboard-copy-content=" &lt;script src=&quot;https://twemoji.maxcdn.com/v/latest/twemoji.min.js&quot; crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
-"><pre><span class="pl-kos">&lt;</span><span class="pl-ent">script</span> <span class="pl-c1">src</span>="<span class="pl-s">https://twemoji.maxcdn.com/v/latest/twemoji.min.js</span>" <span class="pl-c1">crossorigin</span>="<span class="pl-s">anonymous</span>"<span class="pl-kos">&gt;</span><span class="pl-kos">&lt;/</span><span class="pl-ent">script</span><span class="pl-kos">&gt;</span></pre></div>
+<pre><code class="language-markup">
+https://twemoji.maxcdn.com/v/latest/twemoji.min.js
+
+</pre></code>
 
 <p>2. &#160; Mettere poi il codice "JavaScript" presente qui sotto, all'inizio nel BODY del nostro sito HTML</p>
 
-<div class="highlight highlight-source-js position-relative overflow-auto" data-snippet-clipboard-copy-content="<script>
+<pre><code class="language-markup">
+<script>
 window.addEventListener('load', (event) => {
   twemoji.parse(document.body);
 });
 </script>
-"><pre><span><script>
-window.addEventListener('load', (event) => {
-  twemoji.parse(document.body);
-});
-</script></span></pre></div>
+</pre></code>
 
 <p>3. &#160; Ora che hai messo il codice, per verificare, basta mettere un emoji premendo tasto [ windows + . ] o mettere un UNICODE di una Emoji che la puoi trovare sulla pagina web di W3schools &#8594;	<a href="https://www.w3schools.com/charsets/ref_emoji.asp">https://www.w3schools.com/charsets/ref_emoji.asp</a> nel codice HTML</p>
 
